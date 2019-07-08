@@ -1,1 +1,1 @@
-# ms-js-ninja_class_two
+# me-js-ninja_class_two
